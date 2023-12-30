@@ -49,3 +49,6 @@ Economic Tensor PCA Modeling (ETPCA) is an analysis tool designed for economic d
 
 ## Contributing
 Contributions to the ETPCA project are welcome. Feel free to fork the repository, make your changes, and submit a pull request.
+
+## License
+This project is available under the GPL license
