@@ -1,7 +1,9 @@
 # Economic Tensor PCA Modeling (ETPCA)
 
 ## Overview
-Economic Tensor PCA Modeling (ETPCA) is an analysis tool designed for economic data analysis. It employs a combination of tensor product, Principal Component Analysis (PCA), and linear regression to predict Gross National Product (GNP) values, providing a nuanced understanding of economic trends.
+Economic Tensor PCA Modeling (ETPCA) is an analysis tool designed for economic data analysis. It employs a combination of tensor product, Principal Component Analysis (PCA), and linear regression to predict Gross National Product (GNP) values, providing a nuanced understanding of economic trends. 
+
+Note: the current implementation uses CPI and DJIA, but any known metrics of the time can be substituted in at the users will, though the outcome will change and cannot promised to be as correct. Data that represents the "economy" at large will often return best results. 
 
 ## Methodology
 
