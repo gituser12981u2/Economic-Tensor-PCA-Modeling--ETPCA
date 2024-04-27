@@ -53,4 +53,4 @@ Note: the current implementation uses CPI and DJIA, but any known metrics of the
 Contributions to the ETPCA project are welcome. Feel free to fork the repository, make your changes, and submit a pull request.
 
 ## License
-This project is available under the GPL license
+This project is available under the [GPL license](LICENSE)
